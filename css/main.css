@@ -14,6 +14,7 @@ body{
 
 .masthead {
 background-color: #ffe500;
+margin: 0;
 }
 
 h1 {
@@ -53,8 +54,17 @@ h2 {
   font-family: "Sigmar One", georgia;
   color: #cc1465;
   margin-left: .3em;
+
 }
 
 img {
   width: 100%;
+  margin: .2em;
+  display: block;
+}
+
+p {
+  font-family: georgia,serif;
+  font-size: .75rem;
+
 }
