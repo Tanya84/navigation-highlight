@@ -64,7 +64,12 @@ img {
 }
 
 p {
-  font-family: georgia,serif;
+  font-family: Georgia,serif;
   font-size: .75rem;
 
+}
+
+footer {
+background-color: #ffe500;
+text-align: center;
 }
