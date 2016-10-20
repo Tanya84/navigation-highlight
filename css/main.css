@@ -8,15 +8,15 @@ html {
   box-sizing: inherit;
 }
 
-body{
+body {
   margin: 0;
 
 }
 
 header {
-background-color: #ffe500;
-text-align: center;
-padding: 0 .2em .2em;
+  background-color: #ffe500;
+  text-align: center;
+  padding: 0 .2em .2em;
 }
 
 h1 {
@@ -24,7 +24,7 @@ h1 {
   color: #b20953;
   font-family: "Sigmar One", serif;
   font-size: 3rem;
-  margin:0 0 .2em;
+  margin: 0 0 .2em;
 }
 
 nav ul {
@@ -43,12 +43,11 @@ nav a {
   background-color: #b2a212;
   color: #fff;
   text-decoration: none;
-  display:inline-block;
+  display: inline-block;
   border-radius: 4px;
   padding: .2em .5em .3em;
   margin-bottom: .3em;
   font-size: 1.125rem;
-
 
 }
 
@@ -65,7 +64,6 @@ h2 {
   color: #b20953;
   font-size: 1.875rem;
 
-
 }
 
 img {
@@ -75,17 +73,15 @@ img {
 }
 
 p {
-  font-family: Georgia,serif;
-
-
+  font-family: Georgia, serif;
   color: #2f2d13;
 }
 
 footer {
-background-color: #ffe500;
-font-size: .75em;
-text-align: center;
-padding: 10px;
+  background-color: #ffe500;
+  font-size: .75em;
+  text-align: center;
+  padding: .5em;
 
 }
 
